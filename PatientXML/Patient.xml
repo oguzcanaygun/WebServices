@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:patient xmlns:tns="http://www.oguzcanaygun.com/Patient" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.oguzcanaygun.com/Patient Patient.xsd " id="123">
+  <tns:name>tns:name</tns:name>
+  <tns:age>0</tns:age>
+  <tns:DOB>2001-01-01</tns:DOB>
+  <tns:email>tns:email</tns:email>
+  <tns:gender>M</tns:gender>
+  <tns:phone>tns:phone</tns:phone>
+  <tns:payment>
+    <tns:insuarence>
+    <tns:provider>Blue Cross</tns:provider>
+    <tns:limit>1000</tns:limit>
+    </tns:insuarence>
+  </tns:payment>
+</tns:patient>
